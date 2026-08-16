@@ -34,6 +34,10 @@ mya_2be80270e34b143540ddc77db675c1b3,"""စိန်ခြူးကြာညေ�
 mya_2bb971e0ed133e8fff51aabff1304685,မြန်မာ နိုင်ငံ က ဟာ တွေ က ဒါ မျိုး တွေ ပဲ ရိုက် တတ် ကြ တာ လား ရွံ စရာ လို့ မ မြင် ကြ တော့ ဘူး နဲ့ တူ တယ် 💩,1,0,0,0,0,1, ရွံ စရာ|💩
 ```
 
+## Arloo Annotation Tool
+
+[README File of Arloo Annotation Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/codes/Arloo)  
+
 ## References
 
 [1]. [https://www.potatoannotator.com/docs/getting-started/quick-start](https://www.potatoannotator.com/docs/getting-started/quick-start)  
