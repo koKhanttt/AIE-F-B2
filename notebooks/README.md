@@ -9,4 +9,7 @@
 7. Class-11, 15 Aug 2026: [demo_abstraction.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/demo_abstraction.ipynb)  
 8. Class-12, 16 Aug 2026: [SVM_tutorial1.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/SVM/SVM_tutorial1.ipynb)  
 9. Class-12, 16 Aug 2026: [SVM_tutorial2.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/SVM/SVM_tutorial2.ipynb)  
-10. Class-12, 16 Aug 2026: [SVM_tutorial3.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/SVM/SVM_tutorial3.ipynb)
+10. Class-12, 16 Aug 2026: [SVM_tutorial3.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/SVM/SVM_tutorial3.ipynb)  
+11. Class-15, 29 Aug 2026: [ASR_Kaldi_YesNo_Tutorial.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/ASR_Kaldi_YesNo_Tutorial.ipynb)  
+12. Class-15, 29 Aug 2026: [ASR_Kaldi_FSDD_Tutorial.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/ASR_Kaldi_FSDD_Tutorial.ipynb)  
+13. Class-15, 29 Aug 2026: [ASR_Kaldi_an4_Tutorial.ipynb](https://github.com/ye-kyaw-thu/AIE-F-B2/blob/main/notebooks/ASR_Kaldi_an4_Tutorial.ipynb)  
